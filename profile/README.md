@@ -12,11 +12,10 @@ opinionated on purpose. Free software under the GNU GPLv3.
 
 | Repository | What it is |
 |---|---|
-| [fir-init](https://github.com/firproject/fir-init) | init system and service supervision |
-| [fir-utils](https://github.com/firproject/fir-utils) | core utilities |
-| [fwm](https://github.com/firproject/fwm) | window manager for Xorg |
-| [firproject](https://github.com/firproject/firproject) | meta: roadmap and cross-project issues |
-| [firproject.org](https://github.com/firproject/firproject.org) | website source |
+| [fern](https://github.com/fir-project/fern) | init system and service supervision |
+| [fir-utils](https://github.com/fir-project/fir-utils) | core utilities |
+| [fwm](https://github.com/fir-project/fwm) | window manager for Xorg |
+| [firproject](https://github.com/fir-project/firproject) | meta: roadmap and cross-project issues |
 
 ## Principles
 
